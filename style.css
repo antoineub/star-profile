@@ -118,8 +118,8 @@ li {
     width: 80%;
   }
   .card-container {
-    padding: 5% 0;
-    margin: 10% 0;
+    padding: 1% 0 3%;
+    margin: 2% 0;
     width: 100%;
     }
 }
@@ -195,24 +195,3 @@ li {
   }
 
 }
-
-
-
-
-/* To change :
-
-Profile Picture 
-p size
-button
-
-=> all bigger, text + button proportionnal to size
-with this, no need to edit in Tablet
-but max size in Desktop
-
-*/
-
-/*Tablet*/
-
-/* To change :
-
-Profile Picture => max size from a big tablet to computer */
